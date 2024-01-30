@@ -14,28 +14,20 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Marketing website done with Nuxt
+        Content creation done Right 
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Nuxtship is a starter template for startups, marketing websites &
-        landing pages.<wbr /> Built with Nuxt & TailwindCSS. You can quickly
-        create any website with this starter.
+        "startupname" is a tool for content creation assistance based on intelligent models that keep up with the trends
+        .<wbr /> Built by professionnels in the field. You can quickly
+        optimise your work and create a large impact on the internet.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="https://github.com/Gr33nW33n/nuxtship-template"
-          target="_blank"
+          href="/video"
           rel="noopener"
           >Get Started</LandingLink
         >
-        <LandingLink
-          size="lg"
-          styleName="outline"
-          rel="noopener"
-          href="https://github.com/Gr33nW33n/nuxtship-template"
-          target="_blank"
-          >View Repo</LandingLink
-        >
+       
       </div>
     </div>
   </main>

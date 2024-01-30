@@ -1,15 +1,15 @@
 <script setup>
 const features = [
   {
-    title: "Bring Your Own Framework",
+    title: "Bring Your Own Video",
     description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
+      "Sadly we don't create your video for you , but we make your existing video a trend.",
     icon: "bx:bxs-briefcase",
   },
   {
-    title: "100% Static HTML, No JS",
+    title: "100% Privacy Respecting",
     description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
+      "We don't store your uploaded videos, your data is yours and will stay always private.",
     icon: "bx:bxs-window-alt",
   },
   {
@@ -40,13 +40,12 @@ const features = [
 </script>
 
 <template>
-  <div class="mt-16 md:mt-0">
+  <div class="mt-16 md:mt-0" id="features">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Everything you need to start a website
+      Everything you need to succeed in content creation
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      Our tool comes with all the necessary knowledge to create efficent videos.
     </p>
   </div>
 
