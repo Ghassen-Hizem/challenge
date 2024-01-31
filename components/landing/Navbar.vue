@@ -28,7 +28,7 @@ const open = ref(false);
         <a href="/" class="text-lg"
           >
           
-          <span class="font-bold text-slate-800">StartUp name</span>
+          <span class="font-bold text-slate-800">BlowUp</span>
           
         </a>
         <div class="block lg:hidden">

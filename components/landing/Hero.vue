@@ -17,13 +17,13 @@
         Content creation done Right 
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        "startupname" is a tool for content creation assistance based on intelligent models that keep up with the trends
+        BlowUp is a tool for content creation assistance based on intelligent models that keep up with the trends
         .<wbr /> Built by professionnels in the field. You can quickly
         optimise your work and create a large impact on the internet.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="/video"
+          href="/import"
           rel="noopener"
           >Get Started</LandingLink
         >
